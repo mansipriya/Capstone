@@ -1,0 +1,12 @@
+name: MyProject
+title: MyProject
+username:
+account: mansi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 581224
+bundleId: 1710061
+url: https://mansi.shinyapps.io/MyProject/
+when: 1542692855.51609
+asMultiple: FALSE
+asStatic: FALSE
